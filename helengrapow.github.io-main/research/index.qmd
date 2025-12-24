@@ -1,6 +1,6 @@
 ---
 title: Research
-%subtitle: "Working papers & publications"
+
 ---
 
 ## Working Papers
