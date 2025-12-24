@@ -12,15 +12,15 @@ website:
   title: "Helen Grapow"
   description: "Helen Grapow is PhD Candidate in Economics at Ghent University, Belgium."
   navbar:
-  left:
+   left:
     - href: index.qmd
       text: Home
     - href: research.qmd
       text: Research
     - href: cv.qmd
       text: CV
-        page-footer:
-    left: "(c) Helen Grapow–. [Disclaimer](disclaimer)"
+  page-footer:
+   left: "(c) Helen Grapow–. [Disclaimer](disclaimer)"
   twitter-card: false
   open-graph: true
   google-analytics: "395640625"
