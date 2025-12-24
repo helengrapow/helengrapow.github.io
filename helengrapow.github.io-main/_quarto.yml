@@ -8,9 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: research.qmd
+      - href: research/index.qmd
         text: Research
-      - href: cv.qmd
+      - href: files/Grapow_CV.pdf
         text: CV
   page-footer:
     left: "(c) Helen Grapow. [Disclaimer](disclaimer)"
