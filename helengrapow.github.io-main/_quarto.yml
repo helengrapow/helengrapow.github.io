@@ -23,21 +23,5 @@ format:
     toc: false
     fig-align: center
 
-    include-in-header:
-      text: |
-        <script type='application/ld+json'>
-{"@context":"http://www.schema.org","@type":"person","name":"Helen Grapow","jobTitle":"PhD Candidate",
-"gender":"female",
-"description":"Helen Grapow is a PhD Candidate in Economics.",
-"url":"https://helengrapow.com",
-"image":"https://helengrapow.com/img/Grapow_profile_pic.jpg",
-"address":{"@type":"PostalAddress","addressLocality":"Bruxelles","addressRegion":"BRX","postalCode":"1060","addressCountry":"Belgium"},
-"alumniOf":[{"@type":"University","name":"Ghent University","sameAs":"https://www.ugent.be/eb/en"},
-            {"@type":"Rislab","name":"Rislab Center","sameAs":"https://rislab.wordpress.com/"}],"worksFor":[{"@type":"Organization","name":"RisLab"}],
-"birthDate":"1995-09-11",
-"birthPlace":"Rome, Italy"
-</script>
-
-
 
 
