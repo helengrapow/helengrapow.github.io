@@ -1,41 +1,28 @@
 project:
   type: website
-  pre-render:
-    - scripts/pre_create_papers_file.py
-    # - scripts/pre_check_skierg_records.py
-    - scripts/pre_doi_from_rogue_scholar.py
-    # - scripts/pre_canonicalise_tags.py
-resources:
-  - CNAME
 
 website:
   title: "Helen Grapow"
-  description: "Helen Grapow is PhD Candidate in Economics at Ghent University, Belgium."
+  description: "Helen Grapow is a PhD Candidate in Economics at Ghent University, Belgium."
   navbar:
-   left:
-    - href: index.qmd
-      text: Home
-    - href: research.qmd
-      text: Research
-    - href: cv.qmd
-      text: CV
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: cv.qmd
+        text: CV
   page-footer:
-   left: "(c) Helen Grapow–. [Disclaimer](disclaimer)"
-  twitter-card: false
-  open-graph: true
-  google-analytics: "395640625"
+    left: "(c) Helen Grapow. [Disclaimer](disclaimer)"
 
 format:
   html:
     theme:
       - cosmo
       - custom.scss
-    toc: true
-    toc_depth: 3
-    toc_float: true
-    toc_smooth_scroll: true
-    toc_highlight: true
+    toc: false
     fig-align: center
+
     include-in-header:
       text: |
         <script type='application/ld+json'>
