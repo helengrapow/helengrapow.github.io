@@ -1,0 +1,61 @@
+---
+title: "Helen Grapow"
+about:
+    template: trestles
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          url: https://www.linkedin.com/in/helen-grapow/
+        #- #icon: twitter
+        #  text: Twitter
+        #  url: https://twitter.com/epichrisis
+        # - icon: github
+        #   text: Github
+        #   url: https://github.com/chrisvoncsefalvay
+        #- icon: instagram
+        #  text: Instagram
+       #   url: https://www.instagram.com/chrisvoncsefalvay/
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:helen.grapow@ugent.be
+        # - text: "{{< ai orcid >}} ORCID 0000-0001-8720-7765"
+        #   url: https://orcid.org/0000-0001-8720-7765
+        #- text: "{{< ai google-scholar >}} Google Scholar"
+        #  url: https://scholar.google.com/citations?user=X_2G-VsAAAAJ
+        #- text: "{{< ai viaf >}} VIAF 7190162669581955500004"
+        #  url: http://viaf.org/viaf/7190162669581955500004
+        #- text: "{{< ai isni >}} ISNI 0000 0005 0265 5729"
+        #  url: https://isni.org/isni/0000000502655729
+#         - text: "{{< ai researcherid >}} RID IZD-6900-2023"
+#           url: https://www.webofscience.com/wos/author/record/IZD-6900-2023
+#         - text: "{{< ai osf >}} OSF"
+#           url: https://osf.io/8qz52/
+# image: img/Grapow_profile_pic.jpg #portrait_2x3midres
+comments: false
+---
+
+<script type='application/ld+json'>
+{"@context":"http://www.schema.org","@type":"person","name":"Helen Grapow","jobTitle":"PhD Candidate",
+"gender":"female",
+"description":"Helen Grapow is a PhD Candidate in Economics.",
+"url":"https://helengrapow.com",
+"image":"https://helengrapow.com/img/Grapow_profile_pic.jpg",
+"address":{"@type":"PostalAddress","addressLocality":"Bruxelles","addressRegion":"BRX","postalCode":"1060","addressCountry":"Belgium"},
+"alumniOf":[{"@type":"University","name":"Ghent University","sameAs":"https://www.ugent.be/eb/en"},
+            {"@type":"Rislab","name":"Rislab Center","sameAs":"https://rislab.wordpress.com/"}],"worksFor":[{"@type":"Organization","name":"RisLab"}],
+"birthDate":"1995-09-11",
+"birthPlace":"Rome, Italy"
+</script>
+
+## Profile
+
+Welcome!
+
+I am a PhD Candidate in empirical Economics at the Department of Economics, Ghent University, Belgium. 
+
+My research focuses on methodologies to elicit beliefs (expectations) under uncertainty. I use experimental and survey methods, together with econometric techniques, to study how beliefs shape economic behavior across different domains. I am interested in applying these methods Environmental Economics, Labor Economics, and inflation expectations.
+
+📄 [Curriculum Vitae](files/cv.pdf)  
+📧 helen.grapow@ugent.be
+
+
+
