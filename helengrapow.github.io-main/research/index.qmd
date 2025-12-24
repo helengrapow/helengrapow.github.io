@@ -1,13 +1,13 @@
 ---
 title: Research
-subtitle: "Working papers & publications"
+%subtitle: "Working papers & publications"
 ---
 
-# Working Papers
+## Working Papers
 
 Grapow, H., “Eliciting Belief Distributions: A Comparative Study”, Working Paper
 
-# Articles
+## Articles
 
 Battistini, N., Grapow, H., Hahn, E., Soudan, M. (2022), “Wage share dynamics and second-round effects on
 inflation after energy price surges in the 1970s and today”, Economic Bulletin, Issue 5, ECB
