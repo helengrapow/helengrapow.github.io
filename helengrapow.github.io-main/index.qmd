@@ -2,7 +2,7 @@
 title: "Helen Grapow"
 subtitle: "PhD candidate in Economics<br>Ghent University"
 about:
-    template: solana #default #broadside | 
+    template: default #solana # #broadside | 
     links:
         - icon: linkedin
           text: LinkedIn
