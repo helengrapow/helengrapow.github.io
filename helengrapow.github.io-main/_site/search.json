@@ -4,7 +4,7 @@
     "href": "research/index.html",
     "title": "Research",
     "section": "",
-    "text": "Working Papers\nGrapow, H., “Eliciting Belief Distributions: A Comparative Study”, Working Paper\n\n\nArticles\nBattistini, N., Grapow, H., Hahn, E., Soudan, M. (2022), “Wage share dynamics and second-round effects on inflation after energy price surges in the 1970s and today”, Economic Bulletin, Issue 5, ECB\nKoester, G. and Grapow, H. (2021), “The prevalence of private sector wage indexation in the euro area and its potential role for the impact of inflation on wages”, Economic Bulletin, Issue 7, ECB"
+    "text": "Eliciting Belief Distributions: A Comparative Study Working Paper"
   },
   {
     "objectID": "disclaimer/index.html",
@@ -18,7 +18,7 @@
     "href": "index.html",
     "title": "Helen Grapow",
     "section": "",
-    "text": "Welcome!\nI am a PhD Candidate in Economics at the Department of Economics, Ghent University, Belgium.\nMy research focuses on methodologies to elicit beliefs (expectations) under uncertainty.\nI use experimental and survey methods, together with econometric techniques, to study how beliefs shape economic behavior across different domains.\nI am interested in applying these methods to Environmental Economics, Labor Economics, and inflation expectations.\n📧 helen.grapow@ugent.be"
+    "text": "Welcome!\nI am a PhD Candidate at the Department of Economics at Ghent University, funded by the Research Foundation Flanders (FWO).\nBefore starting my PhD, I graduated in Economics with honors from Tor Vergata University of Rome. I also worked as an intern at the Ifo Institute in Munich, as a research assistant on a joint project with the University of Tübingen and ENS Lyon, and as a research analyst at the European Central Bank.\nMy research focuses on methodologies to elicit beliefs (expectations) under uncertainty.\nI use experimental and survey methods, together with econometric techniques, to study how beliefs shape economic behavior across different domains. My research interests include environmental economics, labor economics, and inflation expectations.\n📧 helen.grapow@ugent.be"
   },
   {
     "objectID": "index.html#profile",
@@ -26,5 +26,26 @@
     "title": "Helen Grapow",
     "section": "",
     "text": "Welcome!\nI am a PhD Candidate in Economics at the Department of Economics, Ghent University, Belgium.\nMy research focuses on methodologies to elicit beliefs (expectations) under uncertainty.\nI use experimental and survey methods, together with econometric techniques, to study how beliefs shape economic behavior across different domains.\nI am interested in applying these methods to Environmental Economics, Labor Economics, and inflation expectations.\n📧 helen.grapow@ugent.be"
+  },
+  {
+    "objectID": "research/index.html#working-papers",
+    "href": "research/index.html#working-papers",
+    "title": "Research",
+    "section": "",
+    "text": "Eliciting Belief Distributions: A Comparative Study Working Paper"
+  },
+  {
+    "objectID": "research/index.html#articles",
+    "href": "research/index.html#articles",
+    "title": "Research",
+    "section": "Articles",
+    "text": "Articles\nWage share dynamics and second-round effects on inflation after energy price surges in the 1970s and today. (2022, with Battistini, N., Hahn, E., Soudan, M.) Economic Bulletin, Issue 5, ECB\nThe prevalence of private sector wage indexation in the euro area and its potential role for the impact of inflation on wages(2021, with Koester, G.) Economic Bulletin, Issue 7, ECB"
+  },
+  {
+    "objectID": "index.html#helen-grapow",
+    "href": "index.html#helen-grapow",
+    "title": "Helen Grapow",
+    "section": "",
+    "text": "Welcome!\nI am a PhD Candidate at the Department of Economics of Ghent University, funded by the Research Foundation Flanders (FWO).\nBefore joining the PhD, I graduated in Economics with honors from Tor Vergata University of Rome. I als worked as Intern at Ifo Institute in Munich, as Research Assitant for a joint project with Tübingen and ENS Lyon University, and as a Research Analyst at the ECB.\nMy research focuses on methodologies to elicit beliefs (expectations) under uncertainty.\nI use experimental and survey methods, together with econometric techniques, to study how beliefs shape economic behavior across different domains.\nI am interested in applying these methods to Environmental Economics, Labor Economics, and inflation expectations.\n📧 helen.grapow@ugent.be"
   }
 ]

@@ -13,7 +13,7 @@ website:
       - href: files/Grapow_CV.pdf
         text: CV
   page-footer:
-    left: "(c) Helen Grapow. [Disclaimer](disclaimer)"
+    left: "(c) Helen Grapow"
 
 format:
   html:
