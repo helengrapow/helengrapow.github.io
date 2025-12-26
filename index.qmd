@@ -35,7 +35,8 @@ Welcome!
 
 I am a PhD Candidate at the Department of Economics at Ghent University, funded by the Research Foundation Flanders (FWO).
 
-Before starting my PhD, I graduated in Economics with honors from Tor Vergata University of Rome. I also worked as an intern at the Ifo Institute in Munich, as a research assistant at the University of Tübingen and ENS Lyon, and as a research analyst at the European Central Bank.
+Before starting my PhD, I graduated in Economics with honors from Tor Vergata University of Rome. I also worked as an intern at the Ifo Institute in Munich,
+as a research assistant at the University of Tübingen and ENS Lyon, and as a research analyst at the European Central Bank.
 
 My research focuses on methodologies to elicit beliefs under uncertainty. 
 
